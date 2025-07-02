@@ -71,8 +71,8 @@ const handleCalculate=(e)=>{
 
   return (
     <>
-      <div style={{width:'100%',minheight:'100vh'}} className='d-flex justify-content-center  bg-dark p-5'>
-         <div style={{width:'50%'}} className='bg-white rounded border p-5 '> 
+      <div style={{width:'100%',minheight:'100vh'}} className='d-flex justify-content-center  bg-dark p-5 '>
+         <div className='bg-white rounded border p-5 fit-content-sm'> 
              <h2 className='text-center'>Simple Interest</h2>
               <p className='text-center'>Calculate your simple interest Easily</p>
             <div className='bg-warning text-light text-center rounded p-2'>

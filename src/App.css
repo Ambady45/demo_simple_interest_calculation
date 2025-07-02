@@ -1,0 +1,12 @@
+@media (max-width: 576px) {
+      .fit-content-sm {
+        width: fit-content;
+      }
+    }
+
+@media(min-width: 576px){
+        .fit-content-sm {
+        width: 50%;
+      }
+}
+    
